@@ -1,0 +1,7 @@
+Suponhamos que vai projetar um app Web para manusear frações, de forma a evitar a representação de ponto flutuante (decimal).
+
+Defina as classes Fracao e AppFracao.
+
+A ideia é que Fracao tenha como atributos um numerador e um denominador, e além do método construtor, que tenha no mínimo um método que imprime a fração e dois outros métodos soma (subtrai) e multiplica (divide), para frações.
+
+A classe AppFracao possui dois atributos do tipo Fracao, com métodos que manuseiam as frações e fazem operações entre elas.
