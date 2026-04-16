@@ -1,3 +1,6 @@
+//Tipos primitivos básicos, vistos até então: number, string e boolean.
+//Tipos não-primitivos: classes. São construídas pelo método constructor usando a sintaxe 'new NomeDaClasse(argumentos)'.
+
 class Pessoa
 {
     nome: string;
