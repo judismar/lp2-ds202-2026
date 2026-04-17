@@ -1,0 +1,7 @@
+1. Crie uma classe chamada `Pessoa` com os atributos `nome` e `idade`. Instancie um objeto dessa classe e imprima os atributos.
+2. Crie uma classe `Carro` com atributos `marca` e `modelo`. Instancie um objeto e modifique os atributos.
+3. Crie uma classe `Produto` com atributos `nome` e `preco`. Crie 3 instâncias dessa classe e mostre o preço total dos produtos.
+4. Crie uma classe `Livro` com atributos `titulo` e `autor`. Instancie três livros e mostre o nome do autor de cada um.
+5. Crie uma classe `Aluno` com atributos `nome`, `nota1` e `nota2`. Implemente um método que calcula a média.
+6. Crie uma classe `Funcionario` com atributos `nome`, `salario` e um método que calcula o salário anual.
+7. Crie uma classe `ContaBancaria` com atributos `titular`, `saldo` e `numero`. Adicione um método para depositar dinheiro.
