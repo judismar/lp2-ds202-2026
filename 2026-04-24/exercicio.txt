@@ -1,0 +1,1 @@
+Refazer o jogo cara ou coroa, com base no código da primeira aula, usando classes encapsuladas. É preciso que tenha a classe Moeda, a qual não precisa ter construtor, mas tem que ter um método para lançar a moeda e retornar cara ou coroa. Construa o jogo a partir dessa classe.
