@@ -1,4 +1,4 @@
-1) Crie a classe Funcionaria. Ela deve ter atributos privados nome, salario e cargo, e um construtor para inicializar seus atributos (salário precisa ser maior que 3000 e menor que 20000). Crie um método do tipo 'get' (acessar) (retornar valor armazenado em atributo), outro para retornar o cargo e outro para retornar o salário. Crie também um método do tipo 'set' (alterar) para alterar salário (fazendo a verificação acima).
+1) Crie a classe Funcionaria. Ela deve ter atributos privados nome, salario e cargo, e um construtor para inicializar seus atributos (salário precisa ser maior que 3000 e menor que 20000). Crie um método para acessar/retornar o valor armazenado em nome, outro para retornar o cargo e outro para retornar o salário. Crie também um método para alterar salário (fazendo a verificação acima).
 
 2) Instancie (construa objetos, armazene em variáveis) ao menos 5 funcionárias.
 
