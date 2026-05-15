@@ -1,0 +1,6 @@
+Trabalho:
+
+1) Crie uma classe `Cachorro` com atributos `nome` e `raca`. Adicione um método `latir()` que imprime "Por favor, faz carinho.".
+2) Crie uma classe `Pessoa` com atributos `nome` e `idade` e adicione um método `apertarMao()` (com outra Pessoa como argumento do método).
+3) Instancie 1 Cachorro e faça-o "latir" pelo menos 1 vez.
+4) Instancie pelo menos 3 Pessoa. Faça cada uma se cumprimentar entre si.
