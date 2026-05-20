@@ -1,0 +1,7 @@
+1) Crie a classe `Funcionaria` com atributos `nome`, `salario`, e um construtor que os inicializa. O salário precisa ser, no mínimo, 3000.
+
+2) Crie métodos de acesso a nome e salário. Além disso, crie um método para alterar salário, sem necessidade de verificar se é superior a 3000. Quais possíveis problemas esse método terá?
+
+3) Crie a classe Cargo, com atributos 'descrição' e 'salarioBase'.
+
+4) Uma pessoa Funcionaria é um Cargo, tem um Cargo, ou nenhum dos dois? Transcreva suas ideias na classe Funcionaria, modificando o construtor, se adequado.
