@@ -1,4 +1,4 @@
-1) Crie a classe abstrata Animal, a qual deve ter o método abstrato se comunicar.
+1) Crie a classe abstrata Animal, a qual deve ter o método abstrato seComunicar.
 
 2) Crie ao menos 5 classes que são animais (herdam de Animal).
 
